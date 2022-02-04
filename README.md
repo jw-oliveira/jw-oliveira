@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @jorge-willian
 - 👀 I’m interested in Python, Javascript, HTML, SQL
 - 🌱 I’m currently learning Python
-- 💞️ I'm looking to collaborate on beginner level projects
