@@ -1,8 +1,8 @@
 ## Olá, eu sou o Jorge Willian, estudante de programação!
 <div align="left">
   <a href="https://github.com/jorge-willian">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jorge-willian&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-willian&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jorge-willian&show_icons=true&theme=dark&include_all_commits=true&count_private=true&cache_seconds=1800&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorge-willian&layout=compact&langs_count=7&theme=dark&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
