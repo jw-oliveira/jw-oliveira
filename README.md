@@ -3,5 +3,5 @@
 - 👀 I’m interested in Python, Javascript, HTML, SQL </br>
 - 🌱 I’m currently learning Python </br>
 
-<img align="center" alt="jorge-willian-msqlserver"  src="https://komarev.com/ghpvc/?username=jorge-willian&style=flat-square">
+</br><img align="center" alt="jorge-willian-msqlserver"  src="https://komarev.com/ghpvc/?username=jorge-willian&style=flat-square">
 </div>
