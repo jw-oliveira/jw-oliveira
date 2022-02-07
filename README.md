@@ -11,7 +11,8 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+##
   
-👋 Olá, I’m @jorge-willian </br>
-👀 I’m interested in Python, Javascript, HTML, SQL </br>
-🌱 I’m currently learning Python 
+<div> 
+  <a href="https://www.linkedin.com/in/jw-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
