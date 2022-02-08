@@ -1,4 +1,4 @@
-## Olá, eu sou o Jorge Willian, estudante de programação!
+## Olá, eu sou o Jorge Willian, estudante de programação! <img align="right" src="https://profile-counter.glitch.me/{jorge-willian}/count.svg" />
 <div align="left">
   <a href="https://github.com/jorge-willian">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jorge-willian&show_icons=true&theme=github_dark&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
