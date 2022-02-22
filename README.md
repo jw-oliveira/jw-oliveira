@@ -1,4 +1,4 @@
-## Olá, eu sou o Jorge Willian, estudante de programação! <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
+## Olá! Me chamo Jorge Willian e sou estudante de programação! <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
 <div align="left">
   <a href="https://github.com/jw-oliveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&show_icons=true&theme=github_dark&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
