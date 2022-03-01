@@ -1,4 +1,7 @@
-## Olá! Me chamo Jorge Willian e sou estudante de programação! <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
+## Olá! Eu sou o Jorge Willian<img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
+- 🖥 Formado em Análise e Desenvolvimento de Sistemas
+- 🌐 Técnico de Redes LAN, GPON e Wireless
+- 🙏 Fé é dar o primeiro passo, mesmo quando você não vê toda a escada. Martin Luther King Jr.
 <div align="left">
   <a href="https://github.com/jw-oliveira">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&show_icons=true&theme=github_dark&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
