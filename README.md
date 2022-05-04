@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Jorge Willian<img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
-- 🖥 Formado em Análise e Desenvolvimento de Sistemas.
 - 🌐 Analista de Redes.
+- 🖥 Formado em Análise e Desenvolvimento de Sistemas.
 - 🙏 Fé é dar o primeiro passo, mesmo quando você não vê toda a escada. Martin Luther King Jr.
 <div align="left">
   <a href="https://github.com/jw-oliveira">
