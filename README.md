@@ -3,7 +3,7 @@
 - 🖥 Formado em Análise e Desenvolvimento de Sistemas.
 - 🙏 Fé é dar o primeiro passo, mesmo quando você não vê toda a escada. Martin Luther King Jr.
 
-<div align="left">
+<div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&show_icons=true&theme=github_dark&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&layout=compact&langs_count=7&theme=github_dark&locale=pt-br"/>
 </div>
