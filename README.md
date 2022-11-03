@@ -1,5 +1,5 @@
 ## Jorge Willian de Oliveira<img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
-- 🌐 Analista de Redes.
+- 🌐 Analista de Infraestrutura de Redes.
 - 🖥 Formado em Análise e Desenvolvimento de Sistemas.
 - 🙏 Fé é dar o primeiro passo, mesmo quando você não vê toda a escada. Martin Luther King Jr.
 
