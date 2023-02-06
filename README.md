@@ -17,7 +17,7 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
 
-### Network
+### Network Technologies and Tools
 
 ![TCP/IP](https://img.shields.io/badge/-TCP/IP-000)
 ![Mikrotik](https://img.shields.io/badge/-Mikrotik-000)
@@ -27,10 +27,9 @@
 ![IP CFTV](https://img.shields.io/badge/-IP%20CFTV-000)
 
 
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&show_icons=true&theme=github_dark&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&layout=compact&langs_count=7&theme=github_dark&locale=pt-br"/>
+<div align="left">
+  <img height="150px" weight="150px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&show_icons=true&theme=react&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
 </div>
 
  
