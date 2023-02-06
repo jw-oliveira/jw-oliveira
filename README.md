@@ -2,6 +2,11 @@
 🌐 IT Infrastructure Analyst<br>
 🖥 Backend development student
 
+### Contact
+<a href="www.linkedin.com/in/jw-oliveira"><img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"></img></a>
+
+
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
