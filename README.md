@@ -1,9 +1,9 @@
 ## Jorge Willian de Oliveira<img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
-🌐 IT Infrastructure Analyst<br>
-🖥 Backend development student
 
 ### Contact
-<a href="www.linkedin.com/in/jw-oliveira"><img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin"></img></a>
+
+[<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin">](https://www.linkedin.com/in/jw-oliveira)
+[<img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram">](https://t.me/jw_oliveira)
 
 
 
