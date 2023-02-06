@@ -28,9 +28,10 @@
 
 
 <div align="left">
-  <img height="150px" weight="150px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&show_icons=true&theme=react&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
+  <img height="150px" weight="150px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&card_width=550px&hide_title=true&show_icons=true&theme=react&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&hide_title=true&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
 </div>
+
 
  
 ##
