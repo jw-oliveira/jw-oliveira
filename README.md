@@ -1,12 +1,5 @@
 ## Jorge Willian de Oliveira<img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
 
-### Contact
-
-[<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin">](https://www.linkedin.com/in/jw-oliveira)
-[<img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram">](https://t.me/jw_oliveira)
-
-
-
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -31,13 +24,18 @@
 ![UniFi](https://img.shields.io/badge/-UniFi-000)
 ![IP CFTV](https://img.shields.io/badge/-IP%20CFTV-000)
 
+### Social
+
+[<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin">](https://www.linkedin.com/in/jw-oliveira)
+[<img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram">](https://t.me/jw_oliveira)
+[<img src="https://img.shields.io/badge/-Codewars-000?&logo=codewars">](https://www.codewars.com/users/jw-oliveira)
+
+##
 
 <div align="left">
   <img height="150px" weight="150px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&theme=react&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
 </div>
-
-
  
 ##
   
