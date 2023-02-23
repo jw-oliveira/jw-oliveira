@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![JavaScriptjavas](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite)
 
 ### Technologies
