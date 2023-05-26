@@ -2,18 +2,18 @@
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=sqlite)
+![Python](https://img.shields.io/badge/Python-326796?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/-HTML5-d84924?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/-CSS3-006aad?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/-SQLite-003853?style=for-the-badge&logo=python&logoColor=FFFFFF)
 
 ### Technologies
 
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Github](https://img.shields.io/badge/-Github-000?&logo=Github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Powershell](https://img.shields.io/badge/-Powershell-000?&logo=Powershell)
+![Git](https://img.shields.io/badge/Git-e44c30?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-db5623?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Powershell](https://img.shields.io/badge/PowerShell-416fc6?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Network Technologies and Tools
 
