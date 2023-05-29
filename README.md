@@ -1,11 +1,15 @@
-## Jorge Willian de Oliveira<img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
+# Bem-vindo!! <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
+
+Sou **Jorge Willian de Oliveira**
+
+Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sistemas.
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-326796?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/-HTML5-d84924?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/-CSS3-006aad?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQLite-003853?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=python&logoColor=FFFFFF)
 
 ### Technologies and Tools
 
@@ -19,15 +23,15 @@
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-1f5494?style=for-the-badge)
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-d7373f?style=for-the-badge)
 ![The Dude](https://img.shields.io/badge/The%20Dude-e80f12?style=for-the-badge)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-024abb?style=for-the-badge)
-![UniFi](https://img.shields.io/badge/UniFi-1499d3?style=for-the-badge)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
+![UniFi](https://img.shields.io/badge/UniFi-1499d3?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![IP CFTV](https://img.shields.io/badge/IP%20CFTV-009a3f?style=for-the-badge)
 
 ### Social
 
-[<img src="https://img.shields.io/badge/-LinkedIn-000?&logo=linkedin">](https://www.linkedin.com/in/jw-oliveira)
-[<img src="https://img.shields.io/badge/-Telegram-000?&logo=telegram">](https://t.me/jw_oliveira)
-[<img src="https://img.shields.io/badge/-Codewars-000?&logo=codewars">](https://www.codewars.com/users/jw-oliveira)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jw-oliveira)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jw_oliveira)
+[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/jw-oliveira)
 
 ##
 
