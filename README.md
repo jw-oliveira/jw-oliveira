@@ -2,7 +2,7 @@
 
 Sou **Jorge Willian de Oliveira**
 
-Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sistemas.
+Sou Analista de redes e estou me aprofundando na área de desenvolvimento de sistemas.
 
 ### Languages
 
@@ -15,17 +15,26 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
 
 ![Git](https://img.shields.io/badge/Git-e44c30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Powershell](https://img.shields.io/badge/PowerShell-416fc6?style=for-the-badge&logo=powershell&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-db5623?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-1f5494?style=for-the-badge)
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-d7373f?style=for-the-badge)
 ![The Dude](https://img.shields.io/badge/The%20Dude-e80f12?style=for-the-badge)
 ![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![UniFi](https://img.shields.io/badge/UniFi-1499d3?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![IP CFTV](https://img.shields.io/badge/IP%20CFTV-009a3f?style=for-the-badge)
+
+### OS
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-db5623?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-009639?style=for-the-badge&logo=linuxmint&logoColor=white)
+
+
 
 ### Social
 
