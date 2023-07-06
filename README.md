@@ -2,7 +2,7 @@
 
 Sou **Jorge Willian de Oliveira**
 
-Sou Analista de redes e estou me aprofundando na área de desenvolvimento de sistemas.
+Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sistemas.
 
 ### Languages
 
