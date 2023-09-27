@@ -9,7 +9,7 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/-SQL-003B57?style=for-the-badge&logo=sql&logoColor=FFFFFF)
 
 ### Technologies and Tools
 
@@ -32,6 +32,7 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-db5623?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-2776fd?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-009639?style=for-the-badge&logo=linuxmint&logoColor=white)
 
 
@@ -40,6 +41,7 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jw-oliveira)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jw_oliveira)
+[![Discord](https://img.shields.io/badge/-Discord-525de9?style=for-the-badge&logo=discord&logoColor=white)](discordapp.com/users/jw_oliveira)
 [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/jw-oliveira)
 
 ##
