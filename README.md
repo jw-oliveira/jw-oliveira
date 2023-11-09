@@ -20,6 +20,8 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 ![Powershell](https://img.shields.io/badge/PowerShell-416fc6?style=for-the-badge&logo=powershell&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-008184?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-cd2355?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-1f5494?style=for-the-badge)
 ![Mikrotik](https://img.shields.io/badge/Mikrotik-d7373f?style=for-the-badge)
 ![The Dude](https://img.shields.io/badge/The%20Dude-e80f12?style=for-the-badge)
