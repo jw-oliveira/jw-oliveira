@@ -52,7 +52,3 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
   <img height="150px" weight="150px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&theme=react&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
 </div>
- 
-##
-  
-![snake gif](https://github.com/jw-oliveira/jw-oliveira/blob/output/github-contribution-grid-snake.svg)
