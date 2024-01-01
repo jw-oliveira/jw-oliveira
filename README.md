@@ -1,10 +1,10 @@
-# Bem-vindo!! <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
+# Seja Bem-vindo!! <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" />
 
 Sou **Jorge Willian de Oliveira**
 
-Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sistemas.
+Sou Analista de TI e estou me aprofundando na área de desenvolvimento back-end.
 
-### Languages
+### Linguagens
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)
@@ -12,12 +12,12 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 
 
-### Technologies and Tools
+### Tecnolologias e ferramentas
 
 ![Git](https://img.shields.io/badge/Git-e44c30?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
@@ -31,7 +31,7 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
 ![UniFi](https://img.shields.io/badge/UniFi-1499d3?style=for-the-badge&logo=ubiquiti&logoColor=white)
 ![IP CFTV](https://img.shields.io/badge/IP%20CFTV-009a3f?style=for-the-badge)
 
-### OS
+### Sistemas Operacionais
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -41,7 +41,7 @@ Sou Analista de Redes e estou me aprofundando na área de desenvolvimento de sis
 
 
 
-### Social
+### Contato
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jw-oliveira)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jw_oliveira)
