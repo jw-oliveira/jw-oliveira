@@ -5,7 +5,7 @@ At the moment I'm studying and working with back-end development.
 
 ### My Skills
 
-[![My Languages](https://skillicons.dev/icons?i=py,cpp,html,css,linux,git,github,powershell,django,vscode,postman,sqlite,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+[![My Languages](https://skillicons.dev/icons?i=py,cpp,html,css,linux,git,github,powershell,vscode,django,postman,sqlite,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
 ### Social
 
