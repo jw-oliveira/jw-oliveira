@@ -1,7 +1,7 @@
 # Hi , I'm Jorge W. Oliveira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" /> 
 
 I'm an IT Analyst and have worked for many years with computer networks.<br/>
-At the moment I'm studying and working with back-end development.
+I still work with computer networks, but I'm also studying and working with back-end development
 
 ### My Skills
 
