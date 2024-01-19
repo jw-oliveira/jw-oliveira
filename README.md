@@ -4,12 +4,7 @@ I'm an IT analyst, working with computer networking and back-end development.
 
 ### My Skills
 
-[![My Languages](https://skillicons.dev/icons?i=py,cpp,html,css,linux,git,github,powershell,vscode,django,postman,sqlite,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
-
-### Social
-
-[![My Languages](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/jw-oliveira)
-[![My Languages](https://skillicons.dev/icons?i=discord&theme=dark)](discordapp.com/users/jw_oliveira)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,html,css,linux,git,github,powershell,vscode,django,postman,sqlite,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
 ##
 
