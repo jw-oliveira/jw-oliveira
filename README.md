@@ -4,7 +4,7 @@ I'm an IT analyst, working with computer networking and back-end development.
 
 ### My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,linux,git,github,powershell,vscode,django,postman,sqlite,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,javascript,html,css,linux,git,github,powershell,vscode,django,postman,sqlite,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
 
 ##
 
