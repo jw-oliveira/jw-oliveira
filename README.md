@@ -2,13 +2,13 @@
 
 I'm an IT analyst, working with computer networking and back-end development.
 
-### My Skills
+#### Languages
+[![My Languages](https://skillicons.dev/icons?i=py,javascript,html,css,cpp)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,javascript,html,css,linux,git,github,powershell,vscode,django,postman,sqlite,arduino,raspberrypi&theme=dark)](https://skillicons.dev)
-
-##
+#### Skills
+[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,git,pycharm,vscode,postman,django,arduino,raspberrypi)](https://skillicons.dev)
 
 <div align="left">
-  <img height="150px" weight="150px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&theme=react&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&theme=react&locale=pt-br"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&theme=github_dark_dimmed&locale=pt-br"/>
 </div>
