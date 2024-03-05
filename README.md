@@ -1,4 +1,4 @@
-# Hi , I'm Jorge W. Oliveira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" /> 
+# Hi, I'm Jorge W. Oliveira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" /> 
 
 I'm an IT analyst, working with computer networking and back-end development.
 
