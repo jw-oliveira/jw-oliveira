@@ -10,6 +10,7 @@ I'm an IT analyst, working with computer networking and software development.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-2e6594?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00427e?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <br>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
@@ -25,6 +26,8 @@ I'm an IT analyst, working with computer networking and software development.
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
   <br>
+  <img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=Metabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=Sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>  
 </p>
@@ -36,14 +39,18 @@ I'm an IT analyst, working with computer networking and software development.
   <img src="https://img.shields.io/badge/The_Dude-c6171a?style=for-the-badge&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubiquiti-0950bb?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
   <img src="https://img.shields.io/badge/Termius-2a3368?style=for-the-badge&logo=termius&logoColor=white"/>  
+  <br>
   <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>  
   <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white"/>
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white"/>  
   <br>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Microsoft_365-2B579A?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_365_Adm-015aa3?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Libre_Office-18A303?style=for-the-badge&logo=libreoffice&logoColor=white"/>
+  
   
   
 </p>
