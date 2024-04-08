@@ -56,6 +56,8 @@ I'm an IT analyst, working with computer networking and software development.
   
 </p>
 
+### Contact me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jw-oliveira/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -67,8 +69,6 @@ I'm an IT analyst, working with computer networking and software development.
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
-
-### Stats
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
