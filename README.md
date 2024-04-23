@@ -3,6 +3,8 @@
   <img src=https://readme-typing-svg.herokuapp.com?font=Goldman&size=30&pause=1000&color=66ff66&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World%2C+I'm+Jorge+W.+Oliveira;I'm+an+IT+analyst;+working+with+computer+networking+and+software+development>
 </div>
 
+### Use to code
+
 <p align="center">  
   <img src="https://img.shields.io/badge/HTML5-dd4b25?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-254bdd?&style=for-the-badge&logo=css3&logoColor=white"/>
