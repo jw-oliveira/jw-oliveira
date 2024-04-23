@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg"/> 
-  <img src=https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&color=66ff66&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World%2C+I'm+Jorge+W.+Oliveira;I'm+an+IT+analyst%2C+working+with+computer+networking;and+software+development>
+  <img src=https://readme-typing-svg.herokuapp.com?font=Goldman&size=30&pause=1000&color=66ff66&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World%2C+I'm+Jorge+W.+Oliveira;I'm+an+IT+analyst;+working+with+computer+networking+and+software+development>
 </div>
 
 <p align="center">  
