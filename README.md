@@ -1,8 +1,7 @@
-# Hello World, I'm Jorge W. Oliveira </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <img align="right" src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg" /> 
-
-I'm an IT analyst, working with computer networking and software development.
-
-### Use To Code
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg"/> 
+  <img src=https://readme-typing-svg.herokuapp.com?font=&size=30&pause=1000&color=66ff66&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World%2C+I'm+Jorge+W.+Oliveira;I'm+an+IT+analyst%2C+working+with+computer+networking;and+software+development>
+</div>
 
 <p align="center">  
   <img src="https://img.shields.io/badge/HTML5-dd4b25?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -71,6 +70,6 @@ I'm an IT analyst, working with computer networking and software development.
 </p>
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&theme=github_dark_dimmed&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&theme=github_dark_dimmed&locale=pt-br"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&title_color=f7df1e&icon_color=FFFAFA&text_color=66ff66&bg_color=0d1117&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&title_color=FF0000&icon_color=FFFAFA&text_color=66ff66&bg_color=0d1117&locale=pt-br"/>
 </div>
