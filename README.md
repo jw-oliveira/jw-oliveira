@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Mikrotik-178cf1?style=for-the-badge&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/The_Dude-c6171a?style=for-the-badge&logo=mikrotik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Ubiquiti-0950bb?style=for-the-badge&logo=ubiquiti&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Termius-2a3368?style=for-the-badge&logo=termius&logoColor=white"/>  
   <br>
   <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>  
