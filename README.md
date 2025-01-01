@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg"/> 
-  <img src=https://readme-typing-svg.herokuapp.com?font=Goldman&size=30&pause=1000&color=66ff66&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World;I'm+Jorge+W.+Oliveira;>
+  <img src=https://readme-typing-svg.herokuapp.com?font=Goldman&size=30&pause=1000&color=22b455&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+I'm+Jorge+W.+Oliveira;Network+and+systems+analyst>
 </div>
 
 ### Use to code
@@ -73,6 +73,6 @@
 </p>
 
 <div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&title_color=f7df1e&icon_color=FFFAFA&text_color=66ff66&bg_color=0d1117&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&title_color=FF0000&icon_color=FFFAFA&text_color=66ff66&bg_color=0d1117&locale=pt-br"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&title_color=f7df1e&icon_color=FFFAFA&text_color=22b455&bg_color=0d1117&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&title_color=FF0000&icon_color=FFFAFA&text_color=22b455&bg_color=0d1117&locale=pt-br"/>
 </div>
