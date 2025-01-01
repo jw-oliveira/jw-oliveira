@@ -54,23 +54,9 @@
   <img src="https://img.shields.io/badge/Microsoft_365_Adm-015aa3?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Libre_Office-18A303?style=for-the-badge&logo=libreoffice&logoColor=white"/>
   
-  
-  
 </p>
 
-### Contact me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jw-oliveira/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://t.me/jw_oliveira">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="https://discordapp.com/users/jw_oliveira">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+### Statistics
 
 <div align="center">
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&title_color=f7df1e&icon_color=FFFAFA&text_color=22b455&bg_color=0d1117&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
