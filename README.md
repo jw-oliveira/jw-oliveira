@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/{jw-oliveira}/count.svg"/> 
-  <img src=https://readme-typing-svg.herokuapp.com?font=Goldman&size=30&pause=1000&color=22b455&center=true&vCenter=true&random=false&width=1000&height=100&lines=Hello+World!+I'm+Jorge+W.+Oliveira;Network+and+systems+analyst>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1000&color=22b455&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!+I'm+Jorge+W.+Oliveira;Network+and+Systems+Analyst;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </div>
+
 
 ### Use to code
 
