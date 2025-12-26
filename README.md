@@ -55,10 +55,3 @@
   <img src="https://img.shields.io/badge/Libre_Office-18A303?style=for-the-badge&logo=libreoffice&logoColor=white"/>
   
 </p>
-
-### Statistics
-
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=jw-oliveira&border_radius=0&card_width=500px&hide_title=true&show_icons=true&title_color=f7df1e&icon_color=FFFAFA&text_color=22b455&bg_color=0d1117&include_all_commits=True&count_private=True&hide_border=True&locale=pt-br"/>
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jw-oliveira&hide_border=True&border_radius=0&card_width=200px&hide_title=true&layout=compact&langs_count=7&title_color=FF0000&icon_color=FFFAFA&text_color=22b455&bg_color=0d1117&locale=pt-br"/>
-</div>
