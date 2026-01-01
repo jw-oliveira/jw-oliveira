@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&size=30&pause=1000&color=22b455&center=true&vCenter=true&width=1000&height=100&lines=Hey+there!+I'm+Jorge+W.+Oliveira;Network+and+Systems+Analyst;Tech+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </div>
 
-
 ### Use to code
 
 <p align="center">  
@@ -53,5 +52,4 @@
   <img src="https://img.shields.io/badge/Microsoft_365-2B579A?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft_365_Adm-015aa3?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Libre_Office-18A303?style=for-the-badge&logo=libreoffice&logoColor=white"/>
-  
 </p>
